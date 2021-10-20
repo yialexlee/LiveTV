@@ -3,4 +3,4 @@
 
 LiveTV is a web app and an android webview app that allow user free to watch TV online
 
-Demo : https://livetv.yialexlee.tech
+LiveTV link : https://livetv.yialexlee.tech
